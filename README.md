@@ -18,7 +18,7 @@
 
 - [x] O que foi produzido?
 
- - [Apresentação sobre código limpo](codigos/)
+ - [Apresentação sobre código limpo](https://drive.google.com/file/d/19J8JdQxrjUIemDm_p_KusMq40s7EIgR8/view)
 
 - [x] Links Importantes 
 
