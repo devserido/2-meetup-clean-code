@@ -1,6 +1,6 @@
 # Segundo MeetUp - Dev Seridó
 
-![Imagem 1º MeetUp](imgs/meetup1.png)
+![Imagem 1º MeetUp](img/meetup2.png)
 
 - [x] Quando aconteceu?
 
