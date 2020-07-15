@@ -29,12 +29,15 @@
 
 - Jonathan Tavares 
 - Anderson Dantas
-- Charlez Bezerra
+- Ayrton Dantas
 - Wesley Vitor
-- José Erildo
+- Charles Bezerra
 - José Flávio
-- Eloísa Fernandes
-- Natan Costa
-- Deyvid Willian
-- Otton Maia 
 - Ítalo de Azevedo
+- Jackson Alves
+- Luciano Jr.
+- Neylane Lopes
+- Samantha Medeiros
+- Deyvid Willian
+- Otton Maia
+- Pedro Henrique
